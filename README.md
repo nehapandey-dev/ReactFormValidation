@@ -1,13 +1,13 @@
 `Form Validation `
 React JS
 
+show message if logged in ![Uploading formlogin.png…]()
+
 `Challenges`
 
 Email validation 
 
 password validation
-
-show message if logged in 
 
 ternary operator
 
